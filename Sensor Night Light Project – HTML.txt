@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <center>
+    <head>
+        <title>The Sensor Night Light</title>
+        <style>
+            h1 {
+                font-size: 30px;
+                color: rgb(200, 42, 203);
+            }
+            h3 {
+                font-size: 20px;
+                color: rgb(48, 52, 171);
+            }
+        </style>
+    </head>
+    
+    <body>
+        <h1>The Sensor Night Light</h1>
+        <h3>Well first of all what do we know about sensors:</h3>
+        <p>
+            A sensor is a device which detects or measures a physical
+            property and records, indicates, or otherwise responds to it.
+        </p>
+        <h3>What devices already use sensor:</h3>
+        <ul>
+            <li>Smoke detector</li>
+            <li>Leak/moisture detection</li>
+            <li>Window and door open and close sensor</li>
+            <li>Video doorbell</li>
+            <li>Smart thermostat</li>
+            <li>Smart garage door</li>
+            <li>Intercom/hub</li>
+        </ul>
+        <img src="https://www.piborg.org/image/cache/catalog/freeburn/BURN-0019/DSC_0245-1024x780.jpg" width="200px">
+        <h3>How we came up with the idea?</h3>
+        <p>
+            Some kids are scared of the dark and need the use of a
+            night light to sleep peacefully. The stem lingo kit gives
+            us access to the ability to cut lights on and off with a sensor.
+            So we will set the stem lingo kit up in a way to sense our hand
+            infront of it like a paper towel dispenser. 
+            Meaning when a child is about to go to sleep they will just be
+            able to wave their hand infront of the sensor to activate it.
+            The Sensor Night Light will stay on the entire time while a child
+            is asleep. You can also change the color of your night light. 
+            The colors you can pick from are red, yellow, green, and blue.
+        <p>
+        <h3>The problem were trying to solve.</h3>
+        <p>
+            Were trying to help kids ease into conquering their
+            fear of the dark. It’s as simple that. :)
+        </p>
+        <img src="https://www.etchey.com/wp-content/uploads/2019/07/NIGHT-LIGHT-2.jpg" width="200px">
+        <h3>Who would buy our product?</h3>
+        <p>
+            The product is intend for the young children who are
+            afraid of the dark, but of course they don’t have jobs or
+            money so their parents will be the ones who purchase our 
+            product.
+        </p>
+        <img src="https://d.newsweek.com/en/full/1516716/per-money-01-163332732.jpg?w=1440&h=720&f=0942dc56586d13a46ae95a6c6aeaf260" width="200px">
+        <h3>The product in prototype form</h3>
+        <ul>
+            <li><a href="https://youtu.be/AoBQuhiQcpI">Miles's Sensor Night Light Prototype Video</a></li></li>
+            <li><a href="https://www.youtube.com/watch?v=fCuSQqODCqs">Ikenna's Sensor Night Light Prototype Video</a></li>
+        </ul>
+        <p>
+            (quality may be a little low, sorry for the inconvenience.)
+        </p>
+    </body>
+    </center>
+</html>
